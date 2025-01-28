@@ -1,0 +1,9 @@
+기본 : http://xdworld.vworld.kr:8080/2d/Base/service/{z}/{x}/{y}.png
+그래이 : http://xdworld.vworld.kr:8080/2d/gray/service/{z}/{x}/{y}.png
+블랙 : http://xdworld.vworld.kr:8080/2d/midnight/service/{z}/{x}/{y}.png
+구글 일반 맵 : https://mts1.google.com/vt/lyrs=m&hl=ko&x={x}&y={y}&z={z}
+구글 일반 맵 + 등고선 : https://mts1.google.com/vt/lyrs=p&hl=ko&x={x}&y={y}&z={z}
+구글 일반 맵 + 등고선 + 길우선 : https://mts1.google.com/vt/lyrs=r&hl=ko&x={x}&y={y}&z={z}
+구글 위성사진 : https://mts1.google.com/vt/lyrs=s&hl=ko&x={x}&y={y}&z={z}
+구글 일반 맵 + 등고선 : https://mts1.google.com/vt/lyrs=t&hl=ko&x={x}&y={y}&z={z}
+구글 위성사진 + 한글지명/건물명 : https://mts1.google.com/vt/lyrs=s&hl=ko&x={x}&y={y}&z={z}
